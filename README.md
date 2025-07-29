@@ -3,18 +3,21 @@
 This capstone project involves developing a comprehensive operator performance evaluation system for CallMeMaybe virtual telephony service. The goal is to identify inefficient operators through data analysis and provide supervisors with actionable insights to improve call center operations and customer service quality.
 
 **Business Context**
+
 Company: CallMeMaybe - Virtual telephony service provider
 Service Model: Call distribution platform for organizations managing high-volume incoming calls and outbound calling campaigns
 Business Challenge: Need for automated identification of underperforming operators to optimize call center efficiency
 Target Users: Call center supervisors and operations managers
 
 **Problem Definition**
+
 Inefficient Operator Criteria:
 - High Missed Call Rate: Excessive number of missed incoming calls (both internal and external)
 - Extended Wait Times: Prolonged waiting periods for incoming calls
 - Low Outbound Activity: Insufficient outbound calling volume (for operators assigned to outbound duties)
 
 **Analytical Methodology**
+
 1. Exploratory Data Analysis (EDA)
 Objective: Understand call patterns, operator behavior, and service performance metrics
 
@@ -69,6 +72,7 @@ Potential Statistical Tests:
 - Time Series Analysis: Assess performance trends and seasonality
 
 **Dashboard Development**
+
 Dashboard 1: Call Duration & Direction Analysis
 Components:
 - Call Duration Histogram: Distribution of call lengths to identify patterns
@@ -86,6 +90,7 @@ Components:
 Business Value: Monitor daily operational patterns and identify peak demand periods
 
 **Expected Deliverables**
+
 1. Performance Analysis Report
 
 Inefficient Operator List: Ranked list of underperforming operators with specific metrics
@@ -108,6 +113,7 @@ Trend Analysis: Temporal patterns in operator performance
 - Resource Allocation: Data-driven recommendations for workforce management
 
 **Business Impact**
+
 Operational Benefits
 - Quality Improvement: Early identification and correction of performance issues
 - Cost Reduction: Optimized operator utilization and reduced customer churn
@@ -119,6 +125,7 @@ Strategic Advantages
 - Competitive Edge: Superior service quality through continuous monitoring
 
 **Technical Skills Demonstrated**
+
 Statistical Analysis: Hypothesis testing and performance metric calculation
 Data Visualization: Interactive dashboard development for operational monitoring
 Performance Analytics: Multi-criteria evaluation systems for human resource assessment
@@ -126,6 +133,7 @@ Business Intelligence: Translation of data insights into management actionable r
 Quality Assurance: Statistical validation of performance assessment methodologies
 
 **Expected Outcomes**
+
 Automated Performance Monitoring: Systematic identification of inefficient operators
 Improved Service Quality: Enhanced customer experience through better call handling
 Optimized Operations: Data-driven workforce management and training prioritization
