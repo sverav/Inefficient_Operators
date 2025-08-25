@@ -1,0 +1,23 @@
+🎯 General Goal
+
+To develop a model for the automated identification of operators considered ineffective within the CallMeMaybe platform.
+
+🧩 Methodology
+
+ - Data Cleaning and Preprocessing
+ - Exploratory Data Analysis (EDA)
+ - Definition of Ineffectiveness Metrics (missed call rate, volume of outgoing calls)
+ - Hypothesis Testing
+
+☘️ Expected Results
+
+ - A clear set of quantifiable criteria to define operator "ineffectiveness."
+ - A prioritized list of operators displaying the worst performance indicators according to the defined KPIs.
+ - An interactive dashboard allowing supervisors to monitor performance in near real-time.
+ - Statistically significant conclusions that support or refute the initial hypotheses regarding operator behavior.
+
+📑 Obtained Results
+
+ - Classification of operators based on missed call rate.
+ - Relationship between missed call rate and wait time for each operator.
+ - The null hypothesis is rejected, as it has been demonstrated that operators with a higher number of missed calls have significantly longer wait times than operators with fewer missed calls.
